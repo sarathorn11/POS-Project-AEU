@@ -10,6 +10,8 @@ namespace POS_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello would");
+
         }
     }
 }
